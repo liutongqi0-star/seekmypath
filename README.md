@@ -2,7 +2,7 @@
 
 一个免费的大学生测评：先看清你更接近科研还是实践的做事节奏，再在具体的学科方向和公司岗位里，找到和你最合拍的那几个。
 
-**在线使用：[seekmypath.cn](https://seekmypath.cn)**
+**在线使用：[seekmypath.cn](https://seekmypath.cn)** ｜ **本页预览：[liutongqi0-star.github.io/seekmypath](https://liutongqi0-star.github.io/seekmypath/)**
 
 ---
 
@@ -53,7 +53,7 @@ gh api -X POST repos/{owner}/{repo}/pages -f source[branch]=main -f source[path]
 A free assessment for students deciding between research and industry: 49 everyday
 questions about how you work, then 16 disciplines, 164 research areas and 20 job tracks.
 
-**Try it: [seekmypath.cn](https://seekmypath.cn)**
+**Try it: [seekmypath.cn](https://seekmypath.cn)** ｜ **This page: [liutongqi0-star.github.io/seekmypath](https://liutongqi0-star.github.io/seekmypath/)**
 
 This repository is **not** the assessment app — it is a small share page for it, in
 Chinese and English. The app itself runs on seekmypath.cn, needs no account, and keeps
